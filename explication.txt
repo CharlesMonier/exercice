@@ -1,0 +1,7 @@
+Pour le passage en version desktop j'ai juste réduit la ligne de flotaison de l'image et ajusté le svg favoris.
+
+Le reste me semble cohérent en terme de navigation.
+
+Bien que l'on aurait également pu faire une séparation de la page :
+
+Mes séances sur 8 colonnes à gauche -> border grise -> articles similaires sur 4 colonnes à droite.
